@@ -1,0 +1,4 @@
+filtro,RMS salida,SNR salida (dB),mejora SNR (dB),RMSE
+Pasa bajos Butterworth,0.253329,0.584,1.339,0.176756
+Pasa altos Chebyshev II,0.196275,2.340,3.095,0.144403
+Pasa bandas FIR Kaiser,0.179851,4.855,5.610,0.108101

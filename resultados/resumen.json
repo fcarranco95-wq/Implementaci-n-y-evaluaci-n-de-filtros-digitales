@@ -1,0 +1,27 @@
+{
+  "fs_hz": 500.0,
+  "duracion_s": 8.0,
+  "semilla": 20261106,
+  "rms_entrada": 0.27484322018613366,
+  "snr_entrada_db": -0.7557294265562964,
+  "filtros": {
+    "Pasa bajos Butterworth": {
+      "rms_salida": 0.25332916136093864,
+      "snr_salida_db": 0.5836649130481859,
+      "mejora_snr_db": 1.3393943396044823,
+      "rmse": 0.17675648055161824
+    },
+    "Pasa altos Chebyshev II": {
+      "rms_salida": 0.19627468191573894,
+      "snr_salida_db": 2.3396247557960512,
+      "mejora_snr_db": 3.095354182352348,
+      "rmse": 0.14440337825271504
+    },
+    "Pasa bandas FIR Kaiser": {
+      "rms_salida": 0.17985116358793724,
+      "snr_salida_db": 4.854609764411456,
+      "mejora_snr_db": 5.6103391909677525,
+      "rmse": 0.10810059964800958
+    }
+  }
+}
